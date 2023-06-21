@@ -1,0 +1,7 @@
+table tr td:first-child {
+    width: 300px;
+}
+
+img {
+    width: 100px;
+}
